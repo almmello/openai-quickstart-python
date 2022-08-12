@@ -4,6 +4,7 @@ https://github.com/openai/openai-quickstart-python.git
 
 # Advances
 Use of Dotenv from:
+https://pypi.org/project/python-dotenv/
 
 
 # OpenAI API Quickstart - Python example app
